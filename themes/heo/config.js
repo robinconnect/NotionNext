@@ -6,13 +6,13 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://robinconnect.com' },
-    { title: '', url: '' }
+    { title: '联合大湾区所有做国际业务的打工人', url: 'http://robinconnect.com' }
   ],
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享生活',
   HERO_TITLE_2: '与思维认知',
-  HERO_TITLE_3: 'robinconnect.com',
+  HERO_TITLE_3: 'RobinConnect.com',
   HERO_TITLE_4: 'Under Construction',
   HERO_TITLE_5: 'Under Construction 建设中',
   HERO_TITLE_LINK: 'https://robinconnect.com',
